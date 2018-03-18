@@ -1,3 +1,4 @@
 Repository name,Base Branch,New Branch,Created By,Branch Owner's Email address,Commit Id & Changed files, Status, System Owner Git username, System Owner's Email address, Last Updated By, Last Updated Email address, Last Updated time, Live Branch
 test, master, ouk-sevas-12.1, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-18 06:47:59, master
-test, ouk-sevas-12.1, ouk-sevas-12.1-test1, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-18 06:49:24, master
+test, ouk-sevas-12.1, ouk-sevas-12.1-test1, souravghatak, sourav.ghatak@ee.co.uk, /
+/  Commit Id : 20223a5834abd74220170d694cb1581cc81a58e2 - Deleted :   Modified :   Added :  hhh.erl kkk.erl, Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-18 06:50:17, master
