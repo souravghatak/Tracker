@@ -1,3 +1,3 @@
 Repository name,Base Branch,New Branch,Created By,Branch Owner's Email address,Commit Id & Changed files, Status, System Owner Git username, System Owner's Email address, Last Updated By, Last Updated Email address, Last Updated time, Live Branch
 test, master, test1, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-04-01 09:05:49, master
-test, test1, test2, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-04-01 09:06:37, master
+test, test1, test2, souravghatak, sourav.ghatak@ee.co.uk,   Commit Id : 72f913fc90f2f91f821b7d3824954df8b542ca85 - Deleted :   Modified :  hhh.erl Added :  , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-04-01 10:35:03, master
