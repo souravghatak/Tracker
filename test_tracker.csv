@@ -1,9 +1,0 @@
-Repository name,Base Branch,New Branch,Created By,Branch Owner's Email address,Commit Id & Changed files, Status, System Owner Git username, System Owner's Email address, Last Updated By, Last Updated Email address, Last Updated time, Live Branch
-test, master, test1, souravghatak, sourav.ghatak@ee.co.uk,   Commit Id : 606ec8f3b93ed0473a55f943043015f80182dbb5 - Deleted :   Modified :  hhh.erl Added :  , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 21:29:22, master
-test, test1, test2, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 19:50:59, master
-test, test1, test3, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:08:10, master
-test, test1, test4, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:11:11, master
-test, test1, test5, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:26:48, master
-test, test1, test6, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:31:31, master
-test, test1, test8, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:44:28, master
-test, test1, test9, souravghatak, sourav.ghatak@ee.co.uk, , Active, souravghatak, sourav_ghatak@thbs.com, souravghatak, sourav.ghatak@ee.co.uk, 2018-03-31 20:55:49, master
